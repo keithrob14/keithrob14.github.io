@@ -1,0 +1,24 @@
+button.position-absolute {
+    right: 1rem;
+    top: 1rem;
+    z-index:99;
+}
+
+header{
+    background-color: darkkhaki;
+}
+
+
+/* CSS for Contact Page */
+
+form{
+    padding-left: 1em;
+}
+
+form div p{
+    padding-left: 0;
+}
+
+
+
+/* End CSS for Contact Page */
