@@ -45,6 +45,11 @@ main p{
     font-style: italic;
     font-family: "Open Sans Condensed";
     font-weight: 600;
+    font-size: 18px;
+}
+
+div input{
+    margin-bottom: 10px;
 }
 /* End CSS for Contact Page */
 

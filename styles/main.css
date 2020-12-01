@@ -32,6 +32,8 @@ main div p{
     font-size: 20px;
     font-family: "Josefin Sans";
     font-weight: 300;
+    margin-top: 8px;
+    margin-left: 2px;
 }
 
 /* Carousel Projects Page */
