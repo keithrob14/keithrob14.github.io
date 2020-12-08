@@ -36,12 +36,8 @@ form{
     font-weight: 300;
 }
 
-form div p{
-    padding-left: 10;
-}
-
 main p{
-    padding-left: 10;
+    padding-left: 10px;
     font-style: italic;
     font-family: "Open Sans Condensed";
     font-weight: 600;

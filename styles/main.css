@@ -36,13 +36,6 @@ main div p{
     margin-left: 2px;
 }
 
-/* Carousel Projects Page */
-
-.carousel-item img {
-    height: 100;
-    object-fit: cover;
-}
-
 
 footer{
     background-color: darkkhaki;
